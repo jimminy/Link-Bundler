@@ -1,0 +1,39 @@
+.wrapper{
+height: 800px;
+margin: 0pt auto;
+width: 920px;
+}
+.header{
+padding-bottom: 20px;
+width: 920px;
+}
+.content{
+float:left;
+margin-right: 20px;
+width: 600px;
+word-wrap: break-word;
+}
+.sidebar{
+float: right; 
+margin-top: -20px;
+width: 300px;
+}
+.items{
+margin-bottom: 5px;
+}
+.header a{
+color: #000000;
+text-decoration: none;
+}
+input[type="button"]{
+margin-left: 225px;
+margin-top: 20px;
+width: 150;
+}
+input[type="text"]{
+width: 150;
+}
+input[type="submit"]{
+margin-left: 40px;
+width: 150;
+}
